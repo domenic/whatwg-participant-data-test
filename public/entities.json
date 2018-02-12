@@ -19,5 +19,26 @@
             "signedByTitle": "Software engineer",
             "signedAt": "2018-02-12T21:31:40.015Z"
         }
+    },
+    {
+        "id": "2f7916ef-cc48-4eec-8c4a-656bd713e4fe",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Contoso3 Ltd.",
+            "address": "124 Main Street, New York, NY, USA",
+            "url": "https://contoso4.com/",
+            "contact1": {
+                "name": "Domenic Denicola",
+                "email": "domenic@contoso3.ltd",
+                "gitHubID": "domenic"
+            },
+            "gitHubIDsURL": "https://contoso.com/ids.txt"
+        },
+        "signature": {
+            "signedBy": "Domenic Denicola",
+            "signedByTitle": "Software engineer",
+            "signedAt": "2018-02-12T21:32:42.511Z"
+        }
     }
 ]
