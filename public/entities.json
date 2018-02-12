@@ -1,0 +1,23 @@
+[
+    {
+        "id": "61238420-2a9f-4ec8-900e-7fba151a9640",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Contoso Ltd.",
+            "address": "123 Main Street, New York, NY, USA",
+            "url": "https://contoso2.com/",
+            "contact1": {
+                "name": "Domenic Denicola",
+                "email": "domenic@contoso.ltd",
+                "gitHubID": "domenic"
+            },
+            "gitHubOrganization": "contoso"
+        },
+        "signature": {
+            "signedBy": "Domenic Denicola",
+            "signedByTitle": "Software engineer",
+            "signedAt": "2018-02-12T21:31:40.015Z"
+        }
+    }
+]
