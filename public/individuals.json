@@ -1,0 +1,14 @@
+[
+    {
+        "id": "852e4be9-73f6-483b-995d-efc706279c00",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Test Individual",
+            "gitHubID": "test"
+        },
+        "signature": {
+            "signedAt": "2020-04-07T16:38:13.071Z"
+        }
+    }
+]
