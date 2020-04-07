@@ -40,5 +40,26 @@
             "signedByTitle": "Software engineer",
             "signedAt": "2018-02-12T21:32:42.511Z"
         }
+    },
+    {
+        "id": "eb29b88e-921b-467c-8423-a3b890b00d87",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": " ",
+            "address": "Test Test",
+            "url": "https://amazon.com/",
+            "gitHubOrganization": "test",
+            "contact1": {
+                "name": "Test Test",
+                "email": "test@test.com",
+                "gitHubID": "test"
+            }
+        },
+        "signature": {
+            "signedBy": "Test Test",
+            "signedByTitle": "Tester",
+            "signedAt": "2020-04-07T16:37:23.139Z"
+        }
     }
 ]
