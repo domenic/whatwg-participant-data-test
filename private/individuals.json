@@ -5,5 +5,12 @@
             "address": "Test",
             "email": "test@test.test"
         }
+    },
+    {
+        "id": "859611e4-a560-497c-95ee-ca97af59751c",
+        "info": {
+            "address": "New York, NY, USA",
+            "email": "d@domenic.me"
+        }
     }
 ]
