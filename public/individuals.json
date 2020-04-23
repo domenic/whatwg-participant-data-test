@@ -10,5 +10,31 @@
         "signature": {
             "signedAt": "2020-04-07T16:38:13.071Z"
         }
+    },
+    {
+        "id": "859611e4-a560-497c-95ee-ca97af59751c",
+        "verified": false,
+        "workstreams": [
+            "compat",
+            "console",
+            "dom",
+            "fetch",
+            "fullscreen",
+            "html",
+            "infra",
+            "mimesniff",
+            "notifications",
+            "storage",
+            "streams",
+            "url",
+            "xhr"
+        ],
+        "info": {
+            "name": "Test Individual",
+            "gitHubID": "domenic"
+        },
+        "signature": {
+            "signedAt": "2020-04-23T21:34:16.170Z"
+        }
     }
 ]
