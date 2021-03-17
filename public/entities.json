@@ -61,5 +61,26 @@
             "signedByTitle": "Tester",
             "signedAt": "2020-04-07T16:37:23.139Z"
         }
+    },
+    {
+        "id": "da8ee5b5-c303-40b3-a21b-6e4b3d8a4a11",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Test Entity",
+            "address": "100 Test Place",
+            "url": "https://example-test.com/",
+            "gitHubOrganization": "testing-org",
+            "contact1": {
+                "name": "Domenic Denicola",
+                "email": "d@domenic.me",
+                "gitHubID": "domenic"
+            }
+        },
+        "signature": {
+            "signedBy": "Domenic Denicola",
+            "signedByTitle": "Tester",
+            "signedAt": "2021-03-17T17:38:45.716Z"
+        }
     }
 ]
