@@ -48,5 +48,18 @@
         "signature": {
             "signedAt": "2021-03-17T17:36:20.982Z"
         }
+    },
+    {
+        "id": "ffa680f9-6342-4f84-9380-d5602f32e120",
+        "verified": false,
+        "workstreams": "Verifier: replace this with the array of workstreams the SG has invited this individual to, or replace it with \"all\" if they're invited to all workstreams.",
+        "info": {
+            "name": "Domenic Test 2",
+            "gitHubID": "domenic-test2"
+        },
+        "signature": {
+            "signedAt": "2021-03-17T17:36:58.978Z"
+        },
+        "invited": true
     }
 ]
