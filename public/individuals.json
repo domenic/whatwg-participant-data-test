@@ -36,5 +36,17 @@
         "signature": {
             "signedAt": "2020-04-23T21:34:16.170Z"
         }
+    },
+    {
+        "id": "4844a842-f242-4987-9f11-21ec3bc9b04e",
+        "verified": false,
+        "workstreams": "all",
+        "info": {
+            "name": "Domenic Test",
+            "gitHubID": "domenic-test"
+        },
+        "signature": {
+            "signedAt": "2021-03-17T17:36:20.982Z"
+        }
     }
 ]
